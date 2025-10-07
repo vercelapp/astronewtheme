@@ -44,9 +44,11 @@ const jsonLd = {
   inLanguage: entry.data.lang
     ? entry.data.lang.replace("_", "-")
     : siteConfig.lang.replace("_", "-"),
-  // isteğe bağlı: tek URL veya ImageObject, veya dizi
   image: entry.data.cover
-    ? new URL(entry.data.cover, Astro.site).toString()
+    ? {
+        "@type": "ImageObject",
+        url: new URL(entry.data.cover, Astro.site).toString()
+      }
     : undefined
 };
 ---
