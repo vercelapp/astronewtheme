@@ -38,8 +38,7 @@ const jsonLd = {
     name: profileConfig.name,
     url: Astro.site,
   },
-  // ISO 8601 formatında tarih+zaman+dilimi
-  datePublished: new Date(entry.data.published).toISOString(),
+  datePublished: formatDateToYYYYMMDD(entry.data.published),
   inLanguage: entry.data.lang
     ? entry.data.lang.replace("_", "-")
     : siteConfig.lang.replace("_", "-"),
