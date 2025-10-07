@@ -94,3 +94,36 @@ A well-chosen hair color elevates the entire look and makes a bold statement.
 - [Pinterest Inspiration](https://www.pinterest.com/search/pins/?q=Which%20hair%20color%20is%20classy)  
 - [Amazon: Which Hair Color Is Classy](https://www.amazon.com/s?k=Which%20hair%20color%20is%20classy)  
 - [More about Which](/?s=Which)
+
+ <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Koyu saç rengi mi yoksa açık saç rengi mi daha klas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Genelde koyu kahverengi, siyah ve doğal tonlar daha zamansız ve klas görünür."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Balayaj her saç tipine uygun mudur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, doğru renk ve teknikle çoğu saç tipine uyum sağlar ve doğal bir görünüm sunar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hangi saç rengi yüzü daha ince gösterir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Koyu renkler genellikle yüz hatlarını daha belirgin ve ince gösterir."
+      }
+    }
+  ]
+}
+</script> 
