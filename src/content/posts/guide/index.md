@@ -1,6 +1,6 @@
 ---
 title: "What is the hair trend in 2025 gonna be"
-published: "2024-10-03"
+published: 2024-04-01
 description: "Discover What is the hair trend in 2025 and get ready to revamp your style with latest cuts colors and styling tips that will dominate the year"
 image: "https://i.pinimg.com/736x/bf/b8/40/bfb8403d8a3b39dec7a61bf05d0a423f.jpg"
 tags: ["What", "Is", "The", "Hair", "Trend", "In", "2025"]
