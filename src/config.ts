@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Test Site",
-	subtitle: "Test Site 2",
+	title: "Hairstyles 2025 – Latest Haircuts & Styling Tips",
+	subtitle: "Discover the hottest hairstyles, fresh haircut ideas, expert styling tips, and hair care guides to upgrade your look in 2025.",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
