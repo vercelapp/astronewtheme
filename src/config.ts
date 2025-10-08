@@ -51,15 +51,7 @@ export const profileConfig: ProfileConfig = {
 	avatar: "https://i.pinimg.com/236x/77/1c/3b/771c3bd144cb3c13e66f50d60ac65187.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Webmaster",
 	bio: "Webmaster 2.",
-	links: [
-		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
-		},
-	],
+	links: [],
 };
 
 export const licenseConfig: LicenseConfig = {
