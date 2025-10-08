@@ -45,7 +45,7 @@ if (!banner || typeof banner !== "string" || banner.trim() === "") {
 // TODO don't use post cover as banner for now
 banner = siteConfig.banner.src;
 
-const enableBanner = false;
+const enableBanner = siteConfig.banner.enable;
 
 let pageTitle: string;
 if (title) {
