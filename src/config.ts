@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 		banner: {
 		enable: false,
-		src: "assets/images/demo-banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "https://i.pinimg.com/236x/77/1c/3b/771c3bd144cb3c13e66f50d60ac65187.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: false, // Display the credit text of the banner image
@@ -48,9 +48,9 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Kullanıcı",
-	bio: "Kullanıcı Aciklama.",
+	avatar: "https://i.pinimg.com/236x/77/1c/3b/771c3bd144cb3c13e66f50d60ac65187.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	name: "Webmaster",
+	bio: "Webmaster 2.",
 	links: [
 		{
 			name: "Twitter",
